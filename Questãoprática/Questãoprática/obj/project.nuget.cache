@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "porAxnuPl6E=",
+  "success": true,
+  "projectFilePath": "C:\\SI unidade C\\Desenvolvimento de Aplicativos Web e Cloud Computing\\1Bimestre-Lista2\\Questãoprática\\Questãoprática\\Questãoprática.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anala\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.11\\microsoft.aspnetcore.openapi.10.0.11.nupkg.sha512",
+    "C:\\Users\\anala\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512"
+  ],
+  "logs": []
+}

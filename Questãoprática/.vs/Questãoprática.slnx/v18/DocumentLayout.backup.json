@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SI unidade C\\Desenvolvimento de Aplicativos Web e Cloud Computing\\1Bimestre-Lista2\\Quest\u00E3opr\u00E1tica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA844E07-0745-8154-0586-736EC1F22DEB}|Quest\u00E3opr\u00E1tica\\Quest\u00E3opr\u00E1tica.csproj|c:\\si unidade c\\desenvolvimento de aplicativos web e cloud computing\\1bimestre-lista2\\quest\u00E3opr\u00E1tica\\quest\u00E3opr\u00E1tica\\controllers\\pessoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA844E07-0745-8154-0586-736EC1F22DEB}|Quest\u00E3opr\u00E1tica\\Quest\u00E3opr\u00E1tica.csproj|solutionrelative:quest\u00E3opr\u00E1tica\\controllers\\pessoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA844E07-0745-8154-0586-736EC1F22DEB}|Quest\u00E3opr\u00E1tica\\Quest\u00E3opr\u00E1tica.csproj|c:\\si unidade c\\desenvolvimento de aplicativos web e cloud computing\\1bimestre-lista2\\quest\u00E3opr\u00E1tica\\quest\u00E3opr\u00E1tica\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA844E07-0745-8154-0586-736EC1F22DEB}|Quest\u00E3opr\u00E1tica\\Quest\u00E3opr\u00E1tica.csproj|solutionrelative:quest\u00E3opr\u00E1tica\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\SI unidade C\\Desenvolvimento de Aplicativos Web e Cloud Computing\\1Bimestre-Lista2\\Quest\u00E3opr\u00E1tica\\Quest\u00E3opr\u00E1tica\\Models\\Pessoa.cs",
+              "RelativeDocumentMoniker": "Quest\u00E3opr\u00E1tica\\Models\\Pessoa.cs",
+              "ToolTip": "C:\\SI unidade C\\Desenvolvimento de Aplicativos Web e Cloud Computing\\1Bimestre-Lista2\\Quest\u00E3opr\u00E1tica\\Quest\u00E3opr\u00E1tica\\Models\\Pessoa.cs",
+              "RelativeToolTip": "Quest\u00E3opr\u00E1tica\\Models\\Pessoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T19:34:55.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PessoaController.cs",
+              "DocumentMoniker": "C:\\SI unidade C\\Desenvolvimento de Aplicativos Web e Cloud Computing\\1Bimestre-Lista2\\Quest\u00E3opr\u00E1tica\\Quest\u00E3opr\u00E1tica\\Controllers\\PessoaController.cs",
+              "RelativeDocumentMoniker": "Quest\u00E3opr\u00E1tica\\Controllers\\PessoaController.cs",
+              "ToolTip": "C:\\SI unidade C\\Desenvolvimento de Aplicativos Web e Cloud Computing\\1Bimestre-Lista2\\Quest\u00E3opr\u00E1tica\\Quest\u00E3opr\u00E1tica\\Controllers\\PessoaController.cs",
+              "RelativeToolTip": "Quest\u00E3opr\u00E1tica\\Controllers\\PessoaController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAcwGMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T19:33:22.776Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
